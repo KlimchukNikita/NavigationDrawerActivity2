@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NavigationDrawerActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">РЯЗАНСКИЙ ГОСУДАРСТВЕННЫЙ РАДИОТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_1">Расписание</string>
+    <string name="menu_2">Карты</string>
+    <string name="menu_3">Планировщик задач</string>
+    <string name="menu_4">Приложение</string>
+</resources>
